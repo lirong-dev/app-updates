@@ -1,6 +1,6 @@
 {
-    "versionCode": 10503,
-    "versionName": "1.5.3",
+    "versionCode": 10502,
+    "versionName": "1.5.2",
     "apkUrl": "https://github.com/lirong-dev/app-updates/raw/main/app-release.apk",
     "changeLog": "1. 云更新测试\n2. 更新内容[1]\n3. 更新内容[3]",
     "minRequiredVersion": 1,
